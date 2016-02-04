@@ -10,6 +10,8 @@ The staging area allows you to control which files you want to add in a commit. 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can add the appropriate version of a file to the staging area and compare that with the respository and the working directory to make sure that it is one commit per logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

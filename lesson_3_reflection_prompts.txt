@@ -9,3 +9,7 @@ branch is to create another workflow in the same repository, cloning is to copy 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This is so that when pulling or fetching from the remote repository, merge conflicts can be addressed. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Not sure what would be easier but what would be harder is merging different codes and getting people to understand the changes.

@@ -13,3 +13,7 @@ This is so that when pulling or fetching from the remote repository, merge confl
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Not sure what would be easier but what would be harder is merging different codes and getting people to understand the changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would want to make changes in a seperate branch when working with other people so that other people can verify my work and do their own testing, give comments, then finally merge it into master when it goes well.
